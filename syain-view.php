@@ -96,7 +96,7 @@ $(function(){
     <div id="head">
         <h3 class="alert alert-primary">
             <?= $title ?>
-            <a href="." class="btn btn-secondary btn-sm folder me-4">フォルダ</a>
+            <a href=".." class="btn btn-secondary btn-sm folder me-4">フォルダ</a>
         </h3>
         <input type="submit" name="update" value="更新" class="ms-4 btn btn-primary">
 
